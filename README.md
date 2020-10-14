@@ -45,8 +45,8 @@ Hi, I'm [Akhil](https://akkhill.live), a Full Stack Developer 🚀 from India, c
 
 
 
-<code><img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=maverick1910&theme=radical" /> </code>
-<code><img align="center" src="https://github-readme-stats.vercel.app/api/tpo-langs/?username=maverick1910&theme=radical" /> </code>
+<code><img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick1910&theme=radical" /> </code>
+<code><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick1910&theme=radical" /> </code>
 
 
 
@@ -54,9 +54,7 @@ Hi, I'm [Akhil](https://akkhill.live), a Full Stack Developer 🚀 from India, c
 
 
 
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maverick1910&show_icons=true&theme=gotham" alt="akhil" />
 
 
 
