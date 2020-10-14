@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/akhil-konduru-1b157a16a/">
+<a href="https://www.linkedin.com/in/viswanath-akhil-konduru-1b157a16a">
   <img align="left" alt=" LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
