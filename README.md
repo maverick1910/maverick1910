@@ -51,6 +51,7 @@ Hi, I'm [Akhil](https://akkhill.live), a Full Stack Developer 🚀 from India, c
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.maverick1910.vercel.app/api/top-langs/?username=maverick1910&layout=compact&theme=radical" />
 </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=maverick1910&theme=radical" />
 
 
 
