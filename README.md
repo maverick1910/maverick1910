@@ -44,14 +44,10 @@ Hi, I'm [Akhil](https://akkhill.live), a Full Stack Developer 🚀 from India, c
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.maverick1910.vercel.app/api?username=maverick1910&show_icons=true&include_all_commits=true&theme=radical" alt="" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.maverick1910.vercel.app/api/top-langs/?username=maverick1910&layout=compact&theme=radical" />
-</a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=maverick1910&theme=radical" />
+
+<code><img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=maverick1910&theme=radical" /> </code>
+<code><img align="center" src="https://github-readme-stats.vercel.app/api/tpo-langs/?username=maverick1910&theme=radical" /> </code>
+
 
 
 
