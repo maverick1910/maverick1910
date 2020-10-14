@@ -48,9 +48,6 @@ Hi, I'm [Akhil](https://akkhill.live), a Full Stack Developer 🚀 from India, c
 <p>
 <code><img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick1910&theme=radical" /> </code>  
 </p>
-<p>
-<code><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick1910&theme=radical" /> </code>
-</p>
 
 
 
