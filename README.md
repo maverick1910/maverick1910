@@ -24,6 +24,8 @@ Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@konduruakhil44](https://instagram.com/konduruakhil44);
 - 📝[Resume]
+
+
 **Languages and Tools:**  
 
 
