@@ -23,7 +23,7 @@ Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, 
 - 🌱 I’m currently learning Flutter and ML; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@konduruakhil44](https://instagram.com/konduruakhil44);
-- 📝[Resume]
+- 📝[Resume](https://akkhill.live)
 
 
 **Languages and Tools:**  
