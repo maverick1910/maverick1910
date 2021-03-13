@@ -19,8 +19,8 @@ Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on XR-Connect  :wink:;
-- 🌱 I’m currently learning Flutter and ML; 
+- 👨🏽‍💻 I’m currently working on Delhi Tourism  :wink:;
+- 🌱 I’m currently learning  ML; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@konduruakhil44](https://instagram.com/konduruakhil44);
 - 📝[Resume](https://akkhill.live/Akhil%20Resume.pdf)
