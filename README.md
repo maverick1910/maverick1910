@@ -50,7 +50,7 @@ Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, 
 <p>
 <code><img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick1910&theme=radical" /> </code>  
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick1910&show_icons=true&theme=monokai" alt="Shaunak04" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick1910&theme=nightowl" alt="Shaunak04" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maverick1910&label=Profile%20views&color=131313&style=plastic" alt="Shaunak04" /> </p>
