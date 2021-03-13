@@ -47,7 +47,7 @@ Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, 
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaunak04&show_icons=true&theme=radical" alt="Akhil" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick1910&show_icons=true&theme=radical" alt="Akhil" /></p>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick1910&theme=nightowl" alt="" /></p>
