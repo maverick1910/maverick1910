@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, currently, I'm a SDE intern @BiG and Head of Product @Wissenarie, Mentor 👨🏽‍💼[@Garuda Hacks] Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Akhil](https://akkhill.live), a 3rd year CS Undergrad 🚀 from India, currently, I'm a Head of Product @Wissenarie, Mentor 👨🏽‍💼[@Garuda Hacks] Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
